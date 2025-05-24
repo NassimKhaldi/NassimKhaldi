@@ -160,7 +160,7 @@ Containerization         ██████████████████�
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-nassimkhaldi.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nassimkhaldi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nassimkhaldi.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nassim-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-nassim.khaldi@esprit.tn-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nassim.khaldi@esprit.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nassim--khaldi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-khaldi-421102315/)
 [![GitHub](https://img.shields.io/badge/GitHub-NassimKhaldi-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NassimKhaldi)
